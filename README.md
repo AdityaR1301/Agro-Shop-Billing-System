@@ -18,4 +18,6 @@ Generate Bill
 
 Bill Report
 
+![rr1](https://user-images.githubusercontent.com/84395319/145242899-b6cd1b85-b80b-46f5-b6a4-bcdb184c5db5.JPG)
 
+Find other details here 
