@@ -7,5 +7,15 @@ The App help you to create bills easily and stored in database for longer time.
 #### Read PPT
 
 # Screenshot
+Home window
 
 ![Capture](https://user-images.githubusercontent.com/84395319/145234383-1e92def2-711f-4de2-9a6a-101410d029bc.JPG)
+
+
+Generate Bill
+
+![bi1](https://user-images.githubusercontent.com/84395319/145242316-ebeff065-00d3-4e90-bb17-dc4dad443570.JPG)
+
+Bill Report
+
+
